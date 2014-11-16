@@ -8,7 +8,7 @@ class PieceConcept {
     float totalUnits
     String name
     String description
-    String prizeNoTax
+    float prizeNoTax
 
 
     static belongsTo = [garageVisit: GarageVisit]
