@@ -3,6 +3,9 @@
 # web application files
 /web-app/WEB-INF/classes
 
+#IntelliJ profile
+.idea
+
 # default HSQL database files for production mode
 /prodDb.*
 
