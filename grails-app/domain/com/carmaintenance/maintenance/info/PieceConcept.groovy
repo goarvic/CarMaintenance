@@ -15,5 +15,7 @@ class PieceConcept {
 
 
     static constraints = {
+        units nullable : true
+
     }
 }
